@@ -21,7 +21,9 @@ More functionality may be added at later stage.
 
 # Requirements
 
-Python 3.x
-pipenv
-python-telegram-bot
-pytz
+- Python 3.x
+- pipenv
+- python-telegram-bot
+- pytz
+- requests
+- python-dotenv
