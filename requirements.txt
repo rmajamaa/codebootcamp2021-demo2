@@ -1,6 +1,6 @@
 pipenv
 python-telegram-bot
 pytz
-requests
 python-dotenv
+requests
 
