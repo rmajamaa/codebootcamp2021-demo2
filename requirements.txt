@@ -1,6 +1,0 @@
-pipenv
-python-telegram-bot
-pytz
-python-dotenv
-requests
-
