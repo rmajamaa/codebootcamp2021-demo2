@@ -22,6 +22,9 @@ More functionality may be added at later stage.
 # Requirements
 
 - Python 3.x
+- Telegram bot
+- OpenWeatherMap API key
+
 - pipenv
 - python-telegram-bot
 - pytz
