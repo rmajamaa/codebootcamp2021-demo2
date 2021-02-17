@@ -1,13 +1,13 @@
 # About codebootcamp2021-demo2
 
-This is a repository for hosting the demo application created as part of the Code Bootcamp 2021 course.
+This is a repository for hosting the demo program created as part of the Code Bootcamp 2021 course.
 
-The purpose of this demo application is to demonstrate the skills learned so far on this course and how the course participant is able to utilize these skills by independenly building a working application.
+The purpose of this demo program is to demonstrate the skills learned so far on this course and how the course participant is able to utilize these skills by independenly building a working program.
 
-# About Telegram Bot app
+# About telegram_bot.py program
 
-This app is designed to provide current weather for a city chosen by the user.
-More functionality may be added at later stage.
+This program is designed to provide a current weather update for a city chosen by the user. It can also send a simple greeting when starting the bot.
+More functionality may be added at later stage. Follow change log for possible future updates.
 
 # Learning points
 
@@ -30,6 +30,19 @@ More functionality may be added at later stage.
 - pytz
 - requests
 - python-dotenv
+
+# How to get started?
+
+1. Register at https://openweathermap.org/api in order to obtain your personal API key
+2. Install Telegram and talk to the BotFather in order to create your own Bot. Information at https://core.telegram.org/bots will get you started.
+
+# Documentation
+
+Documentation can be found in the doc folder
+
+# Author
+
+Risto Majamaa
 
 # License
 
