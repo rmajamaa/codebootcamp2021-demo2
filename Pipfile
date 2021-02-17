@@ -10,6 +10,7 @@ pylint = "*"
 autopep8 = "*"
 requests = "*"
 python-dotenv = "*"
+pdoc3 = "*"
 
 [dev-packages]
 
